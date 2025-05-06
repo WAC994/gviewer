@@ -1,2 +1,6 @@
+# files
 *.exe
 *.bin
+
+# directories
+/build
