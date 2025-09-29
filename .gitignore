@@ -4,4 +4,6 @@
 
 # directories
 /build
-.vscode
+/out
+/.vscode
+/.vs
